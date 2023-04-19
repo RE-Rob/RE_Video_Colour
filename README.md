@@ -7,18 +7,18 @@ Testing process:
 
 Platforms to test:
 
-<bold>OSX</bold>
+<h3>OSX</h3>
 – Chrome
 – Safari
 
-<bold>Windows</bold>
+<h3>Windows</h3>
 – Chrome
 – Safari
 – Edge
 
-<bold>iOS</bold>
+<h3>iOS</h3>
 – Chrome
 – Safari
 
-<bold>Android</bold>
+<h3>Android</h3>
 – Chrome
