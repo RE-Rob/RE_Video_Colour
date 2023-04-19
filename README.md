@@ -2,14 +2,14 @@
 Test assets for RE Video Encoding workflow
 
 
-<h4>Testing process:</h4>
+<h4>Testing process</h4>
 <p>
 1. Open assets up in browser</br>
 2. Screenshot each frame
 3. </p>
 
 
-<h4>Platforms to test:</h4>
+<h4>Platforms to test</h4>
 
 <p>
 OSX</br>
