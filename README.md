@@ -8,25 +8,25 @@ Testing process:
 Platforms to test:
 
 <p>
-  <em>OSX</em>
-  – Chrome
-  – Safari
+OSX</br>
+– Chrome
+– Safari
 </p>
 
 <p>
-  <em>Windows</em>
+Windows</br>
   – Chrome
   – Safari
   – Edge
 </p>
 
 <p>
-  <em>iOS</em>
+iOS</br>
   – Chrome
   – Safari
 </p>
 
 <p>
-  <em>Android</em>
+Android</br>
   – Chrome
 </p>
