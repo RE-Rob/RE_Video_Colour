@@ -1,8 +1,9 @@
 # RE_Video_Colour
 Test assets for RE Video Encoding workflow
 
+
+<h4>Testing process:<h4>
 <p>
-Testing process:</br>
 1. Open assets up in browser</br>
 2. Screenshot each frame
 3. </p>
