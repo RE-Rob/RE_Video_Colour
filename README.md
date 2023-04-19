@@ -6,7 +6,8 @@ Test assets for RE Video Encoding workflow
 <p>
 1. Open assets up in browser</br>
 2. Screenshot each frame
-3. </p>
+3. Save files on the server in ‘raggededge/Shared/RE WORK/_RE Directory/RE Techie Stuff/RE Video Compressor/Test results’
+</p>
 
 
 <h4>Platforms to test</h4>
